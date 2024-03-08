@@ -31,8 +31,4 @@ Welcome to Archospital, a magical system designed to streamline hospital managem
 
 ## Contributions
 
-Contributions to Archospital are welcome! Whether you want to add new features, improve existing ones, or fix bugs, feel free to submit a pull request.
-
-## Credits
-
-Archospital is developed and maintained by [Your Name]. Special thanks to the Flask and SQLite communities for their invaluable contributions.
+Contributions to Archospital are welcome! Whether you want to add new features, improve existing ones, or fix bugs, feel free to submit a pull request..
